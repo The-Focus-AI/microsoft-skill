@@ -5,10 +5,7 @@
   "author": {
     "name": "Focus.AI"
   },
-  "skills": [
-    {
-      "name": "microsoft-outlook",
-      "path": "skills/microsoft-outlook.md"
-    }
-  ]
+  "skills": {
+    "microsoft-outlook": "skills/microsoft-outlook/SKILL.md"
+  }
 }
