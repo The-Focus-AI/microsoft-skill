@@ -1,0 +1,14 @@
+{
+  "name": "microsoft-skill",
+  "version": "1.0.0",
+  "description": "Microsoft Graph API integration for Claude Code - Outlook/Hotmail email access",
+  "type": "module",
+  "scripts": {
+    "microsoft": "tsx skills/microsoft-outlook/scripts/microsoft.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.7",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  }
+}
