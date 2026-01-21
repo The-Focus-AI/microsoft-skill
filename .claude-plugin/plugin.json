@@ -2,6 +2,13 @@
   "name": "microsoft-skill",
   "version": "1.0.0",
   "description": "Microsoft Graph API integration for Claude Code - access Outlook/Hotmail emails",
-  "author": "Focus.AI",
-  "skills": ["skills/microsoft-outlook"]
+  "author": {
+    "name": "Focus.AI"
+  },
+  "skills": [
+    {
+      "name": "microsoft-outlook",
+      "path": "skills/microsoft-outlook.md"
+    }
+  ]
 }
