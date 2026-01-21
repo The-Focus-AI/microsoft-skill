@@ -5,7 +5,5 @@
   "author": {
     "name": "Focus.AI"
   },
-  "skills": {
-    "microsoft-outlook": "skills/microsoft-outlook/SKILL.md"
-  }
+  "skills": ["./skills/microsoft-outlook/SKILL.md"]
 }
